@@ -189,3 +189,7 @@ Other frameworks for building APIs in Node.js include:
 - **Koa.js**: A minimal and modular framework created by the same team that built Express. It offers a more modern approach to middleware and context management, using async/await for improved control flow.
 - **Hapi.js**: A framework designed for building powerful and scalable applications, with features such as input validation, caching, and authentication. It provides a rich set of tools for building robust APIs.
 - **Sails.js**: A framework for building MVC applications with a focus on data-driven APIs and real-time functionality. It includes built-in support for WebSockets and a powerful data management layer.
+
+## What is ACID Properties in Database ?
+
+## What is CAP theory ?
